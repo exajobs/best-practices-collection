@@ -1,6 +1,6 @@
-# Best Practices Collection.
+# Best Practices Collection
 > Welcome to the world of Best Practices.
-An ongoing collection of libraries, software, resources, useful coding style guides and development practices across the web.
+An ongoing collection of libraries, software, resources, useful coding styles, design guides and development practices across the web.
 
 ## Contents
 
