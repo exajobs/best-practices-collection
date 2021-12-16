@@ -2,7 +2,7 @@
 > Welcome to the world of Best Practices.
 An ongoing collection of libraries, software, resources, useful coding styles, design guides and development practices across the web.
 
-## Contents
+## Table of Contents
 
 + [Styling](#styling)
   + [CSS](#css)
